@@ -1,4 +1,4 @@
-# vue-image-magnifier
+# vue-components-template
 
 ## Project setup
 ```
